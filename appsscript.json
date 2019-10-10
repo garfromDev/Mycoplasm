@@ -1,0 +1,49 @@
+{
+  "timeZone": "Europe/Paris",
+  "dependencies": {
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "sheets": {
+    "macros": [{
+      "menuName": "PrintFORM",
+      "functionName": "PrintFORM"
+    }, {
+      "menuName": "EditForm",
+      "functionName": "EditForm"
+    }, {
+      "menuName": "EditFORM",
+      "functionName": "EditFORM"
+    }, {
+      "menuName": "HautFORM",
+      "functionName": "HautFORM"
+    }, {
+      "menuName": "Initialisation pour édition formulaire",
+      "functionName": "myFunction",
+      "defaultShortcut": "Ctrl+Alt+Shift+0"
+    }, {
+      "menuName": "ReinitEtiqAG",
+      "functionName": "ReinitEtiq"
+    }, {
+      "menuName": "ReinitEtiqPrepaAG",
+      "functionName": "ReinitEtiqPrepaAG"
+    }, {
+      "menuName": "ReinitEtiqDiluant",
+      "functionName": "ReinitEtiqDiluant"
+    }, {
+      "menuName": "ReinitEtiqDiluant 1",
+      "functionName": "ReinitEtiqDiluant1"
+    }, {
+      "menuName": "ReinitEtiqAG 1",
+      "functionName": "ReinitEtiqAG1"
+    }, {
+      "menuName": "ReinitDiluant",
+      "functionName": "ReinitDiluant1"
+    }, {
+      "menuName": "ReinitDiluant",
+      "functionName": "ReinitDiluant1"
+    }, {
+      "menuName": "ReinitDiluant",
+      "functionName": "ReinitDiluant"
+    }]
+  }
+}
